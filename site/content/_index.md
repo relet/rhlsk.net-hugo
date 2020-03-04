@@ -4,12 +4,11 @@ image: img/clouds.jpg
 blurb:
   heading: Om Oss
   text: >-
-    Our club is based in Norway, approx. 60 km NW of Oslo. Members are mostly
-    from the Ringerike and Hole regions.
+    Vi er paraglidingklubben for hele regionen Ringerike, Hole og omegn. Stiftet i 1978 er vi så heldig at vi har landets mest brukte flysted på dørstokken i Sundvollen. Med Ringerudkollen og Norefjell har vi også fantastiske utgangspunkter for å fly distanse.  
 
-
-    The most popular takeoffs in the region are Sundvollen and Ringerudkollen.
 intro:
   heading: Aktiviteter
-  text: 'Vi tilbyr prøvedager, kursing og tandemturer.'
+  text: 'Om du er nysgjerrig eller erfaren, så ta gjerne kontakt - enten på Facebookgruppen vår, på telefon eller epost. 
+
+  Vi organiserer prøvedager, tandemturer og kurs for de som vil få en prøvesmak, og følger din progresjon frem til konkurransenivå. Våre medlemmer flyr hang- og paraglider, distanse, konkurranse og akrobatikk.'
 ---
