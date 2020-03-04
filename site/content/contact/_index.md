@@ -4,7 +4,7 @@ logo: img/rhlsk.gif
 ---
 Facebook: [Ringerike Hole Luftsportklubb](https://www.facebook.com/groups/258372744233395/)
 
-Epost: [kurs@rhlsk.net](kurs@rhlsk.net), [tandem@rhlsk.net](mailto:tandem@rhlsk.net)
+Epost: [post@rhlsk.net](mailto:post@rhlsk.net), [tandem@rhlsk.net](mailto:tandem@rhlsk.net), [kurs@rhlsk.net](mailto:kurs@rhlsk.net)
 
 **Styret**
 
