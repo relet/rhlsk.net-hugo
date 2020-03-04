@@ -1,6 +1,5 @@
 ---
 title: Ringerike Hole Luftsportklubb
-subtitle: ...
 image: img/headerimg.jpg
 blurb:
   heading: Om Oss
@@ -13,3 +12,4 @@ blurb:
 intro:
   heading: Aktiviteter
   text: 'Vi tilbyr prøvedager, kursing og tandemturer.'
+---
