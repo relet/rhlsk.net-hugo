@@ -8,9 +8,9 @@ Epost: [post@rhlsk.net](mailto:post@rhlsk.net), [tandem@rhlsk.net](mailto:tandem
 
 **Styret**
 
-|                  |              |              |
+|                  |             |              |
 | ---------------- | ------------ | ------------ |
-| Øyvind Fossen    | Leder        |              |
-| Anders Brattli   | Faglig leder | +47 90632465 |
-| Kunli Li Thorsen | Kasserer     | +47 40457734 |
-|                  | Tandem       | +47 90632465 |
+| Øyvind Fossen    |Leder        |              |
+| Anders Brattli   |Faglig leder, | +47 90632465 |
+|                  |Tandem       |   |
+| Kunli Li Thorsen |Kasserer     | +47 40457734 |
