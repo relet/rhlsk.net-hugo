@@ -1,7 +1,6 @@
 ---
-title: Contact
+title: Kontakt
 logo: img/rhlsk.gif
-contact_entries: []
 ---
 Styret
 
