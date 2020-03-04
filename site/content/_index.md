@@ -1,6 +1,6 @@
 ---
 title: Ringerike Hole Luftsportklubb
-image: img/headerimg.jpg
+image: img/clouds.jpg
 blurb:
   heading: Om Oss
   text: >-
