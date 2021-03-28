@@ -10,7 +10,7 @@ Epost: [post@rhlsk.net](mailto:post@rhlsk.net), [tandem@rhlsk.net](mailto:tandem
 
 |                  |             |              |
 | ---------------- | ------------ | ------------ |
-| Anders Brattly   |Leder        | +47 90632465 |
+| Anders Brattli   |Leder        | +47 90632465 |
 |                  |Tandem       |   |
 | Thomas Hirsch    |Faglig leder, | +47 40435237 |
 | Kunli Li Thorsen |Kasserer     | +47 40457734 |
